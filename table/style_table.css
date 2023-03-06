@@ -1,0 +1,22 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  
+}
+
+.table th {
+  text-align: center;
+}
+
+.table td,
+.search-input {
+  text-align: center;
+  font-size: 1em;
+  padding: 0.6em 1em;
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  font-family: "Fira Sans", Fira Sans;
+}
